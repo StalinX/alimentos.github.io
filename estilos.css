@@ -1,1 +1,33 @@
-h2{color: #598;}
+h1 {
+    text-align: center;
+}
+
+h2{color: #598;
+    font-family: cursive
+}
+
+.title{
+    text-align: right;
+    color: black;
+    margin-right: 75px;
+}
+
+section {
+    margin-left: 75px;
+    margin-right: 900px;
+    background-color: #0C042E;
+}
+
+
+li {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: #dbd5eb;
+}
+.li1 {
+    font-family: cursive;
+    color: rgb(85, 125, 236);
+}
+.li2 {
+    font-family: cursive;
+    color: rgb(85, 188, 236);
+}
